@@ -9,7 +9,7 @@ export default function HeroSection({ settings = {} }) {
     subheading = "Discover amazing products at unbeatable prices",
     ctaText    = "Shop Now",
     ctaLink    = "/products",
-    image      = "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=1200",
+    image      = "https://drive.google.com/file/d/1Fj3iXctJWfWMNwTPN_ekw01USoqQXaNN/view?usp=sharing",
   } = settings;
 
   return (
