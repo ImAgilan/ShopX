@@ -9,7 +9,7 @@ export default function HeroSection({ settings = {} }) {
     subheading = "Discover amazing products at unbeatable prices",
     ctaText    = "Shop Now",
     ctaLink    = "/products",
-    image      = "https://drive.google.com/file/d/1Fj3iXctJWfWMNwTPN_ekw01USoqQXaNN/view?usp=sharing",
+    image      = "https://techbuzzireland.com/wp-content/uploads/2022/08/Hero-image-.png",
   } = settings;
 
   return (
