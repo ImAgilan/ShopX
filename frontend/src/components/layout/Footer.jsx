@@ -54,7 +54,7 @@ export default function Footer() {
 
         <div className="border-t border-white/10 pt-6 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-xs text-gray-500">{site?.footerText || "© 2024 Shop‑X. All rights reserved."}</p>
-          <p className="text-xs text-gray-600">Made with ❤️ in Sri Lanka</p>
+          <p className="text-xs text-gray-600">Developed by AGI TECH</p>
         </div>
       </div>
     </footer>
