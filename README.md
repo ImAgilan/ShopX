@@ -1,5 +1,5 @@
 # Shop-X — Hostinger Deployment Guide
-
+Test commit
 ## Folder Structure (Hostinger-Ready)
 ```
 shop-x/                      ← Project root (upload this)
